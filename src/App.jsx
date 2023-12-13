@@ -10,7 +10,7 @@ function App() {
           <p>Scan my QR code </p>
           <QRCodeSVG
             value="https://aleeyudev-portfolio.netlify.app/"
-            size={260}
+            size={300}
             level="Q"
           />
         </header>
